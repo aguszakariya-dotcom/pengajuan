@@ -1,3 +1,5 @@
+
+// tambahan
 $('#tbDiary').DataTable();
 $('#tbGajian').DataTable();
 
